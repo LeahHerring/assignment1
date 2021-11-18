@@ -1,7 +1,7 @@
 body {
     box-sizing: border-box;
     margin: 0px;
-    color: white;
+    color: rgba(255, 255, 255, 0.692);
     font-size: 15px;
     font-weight: 100;
     font-style: normal;
@@ -20,7 +20,7 @@ body {
     width: 164px;
     margin-left: 60px;
    }
-.billsflix {
+.houseplants {
     text-align: center;
     max-width: 800px;
     font-family: "Netflix Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
